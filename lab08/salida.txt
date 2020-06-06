@@ -1,0 +1,4 @@
+1001,Juan Perez,3600
+1002,Maria Gonzalez,4500
+1003,Ramon Tirado,2500
+1003,Pedro Nogales,8200
